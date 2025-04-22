@@ -9,6 +9,7 @@ import (
 
 	_ "pietempesti/advent/solutions/2015/day1"
 	_ "pietempesti/advent/solutions/2015/day2"
+	_ "pietempesti/advent/solutions/2015/day3"
 )
 
 func main() {

@@ -21,9 +21,3 @@ go run cmd/aoc/main.go -year 2015
 
 go run cmd/aoc/main.go -year 2015 -day 1
 ```
-
-## Progress tracker
-
-### 2015
-- Day 1
-- Day 2
